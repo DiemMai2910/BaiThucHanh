@@ -1,4 +1,5 @@
-package BaiThucHanhLab3;
+package BaiThucHanhLab3.BaiThucHanh2303;
+
 
 public class InHinhtrutron {
         public static void main(String[] args) {

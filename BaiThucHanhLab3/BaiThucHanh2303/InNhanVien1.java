@@ -1,5 +1,4 @@
-package BaiThucHanhLab3;
-
+package BaiThucHanhLab3.BaiThucHanh2303;
 public class InNhanVien1 {
     public static void main(String[] args) {
         nhanVien htr1 = new nhanVien();
