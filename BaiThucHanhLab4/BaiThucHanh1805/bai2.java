@@ -1,5 +1,8 @@
 package BaiThucHanhLab4.BaiThucHanh1805;
 
+import java.util.Scanner;
+import java.util.LinkedList;
+
 public class bai2 {
     public static void main(String[] args) {
         int n, node, sum = 0, count = 0;
