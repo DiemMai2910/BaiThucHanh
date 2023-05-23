@@ -5,12 +5,12 @@ public class bai1 {
             ArrayList<Integer> arrListInteger = new ArrayList<>();
             Scanner sc = new Scanner(System.in); 
             
-            System.out.println("Nhập số phần tử của ArrayList: ");
+            System.out.println("Nhap so phan tu cua ArrayList: ");
             int n = sc.nextInt();
                 
             // nhập và thêm phần tử cho ArrayList
             for (int i = 0; i < n; i++) {
-                System.out.print("Nhập phần tử thứ " + i +": ");
+                System.out.print("Nhap phan tu thu " + i +": ");
                 int number = sc.nextInt();
                 arrListInteger.add(number);
             }
@@ -26,6 +26,6 @@ public class bai1 {
                 max = arrListInteger.get(i);
             }
         }
-        System.out.println("Phần tử lớn nhất trong arrListInteger = " + max);
+        System.out.println("Phan tu lon nhat trong arrListInteger = " + max);
     }
 }

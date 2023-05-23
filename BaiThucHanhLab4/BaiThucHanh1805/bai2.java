@@ -28,7 +28,6 @@ public class bai2 {
         }
              
         tbCong = (double)sum / count;
-        System.out.println("Trung bình cộng của các số chẵn trong danh sách = " + 
-            dcf.format(tbCong));
+        System.out.println("Trung binh cong cua so chan trong danh sach = " + dcf.format(tbCong));
     }
 }
